@@ -21,6 +21,6 @@ Finally, find the picotool in SDK and list the info...  <br>
 <br/>
 
 
-##Reference <br>
-[RP2 QuickRef] (https://docs.micropython.org/en/latest/rp2/quickref.html)<br>
-[Pico Examples] (https://github.com/raspberrypi/pico-micropython-examples)<br>
+## Reference <br>
+[RP2 QuickRef] https://docs.micropython.org/en/latest/rp2/quickref.html<br>
+[Pico Examples] https://github.com/raspberrypi/pico-micropython-examples<br>

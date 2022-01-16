@@ -13,6 +13,7 @@ Following are steps to build the micropython .uf2... <br><br>
   cd ../..<br>
   cd ports/rp2<br>
   make -j4<br>
+  cd build-PICO
   <br><br>
   
 Finally, find the picotool in SDK and list the info...  <br>

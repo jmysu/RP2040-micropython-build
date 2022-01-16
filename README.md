@@ -1,7 +1,8 @@
 # RP2040-micropython-build
 How to build rp2040 micropython on MacOS
 
-Following are steps to build the micropython .uf2... <br>
+Following are steps to build the micropython .uf2... <br><br>
+
   git clone https://www.github.com/micropython/micropython<br>
   cd micropython/<br>
   make -C mpy-cross/<br>
@@ -13,4 +14,5 @@ Following are steps to build the micropython .uf2... <br>
   cd ports/rp2<br>
   make -j4<br>
   <br><br>
+  
 Finally, find the picotool in SDK and list it...  <br>

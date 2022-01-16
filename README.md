@@ -15,6 +15,6 @@ Following are steps to build the micropython .uf2... <br><br>
   make -j4<br>
   <br><br>
   
-Finally, find the picotool in SDK and list it...  <br>
+Finally, find the picotool in SDK and list the info...  <br>
 <img src="pic/picotool-micropython.png"/>
 <br/>

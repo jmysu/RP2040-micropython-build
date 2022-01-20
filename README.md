@@ -1,7 +1,7 @@
 # RP2040-micropython-build
 How to build rp2040 micropython on MacOS
 
-Following are steps to build the micropython.uf2... <br><br>
+Followings are the steps to build the micropython.uf2... <br><br>
 
   git clone https://www.github.com/micropython/micropython<br>
   cd micropython/<br>

@@ -21,10 +21,12 @@ Finally, find the picotool in SDK and list the info...  <br>
 <br/>
 
 To use the PyDOS, follows instructions on https://github.com/RetiredWizard/PyDOS <br>
+(use mpremote to copy PyDOS contents into micropython local folder)<br>
 <img src="pic/PyDOS-micropython.png"/>
 
 
 
+<br>
 ## Reference <br>
 [RP2 QuickRef] https://docs.micropython.org/en/latest/rp2/quickref.html<br>
 [Pico Examples] https://github.com/raspberrypi/pico-micropython-examples<br>

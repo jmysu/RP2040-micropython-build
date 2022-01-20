@@ -20,7 +20,9 @@ Finally, find the picotool in SDK and list the info...  <br>
 <img src="pic/picotool-micropython.png"/>
 <br/>
 
-To use the PyDOS, install rpremote
+To use the PyDOS, follows instructions on https://github.com/RetiredWizard/PyDOS <br>
+<img src="pic/PyDOS-micropython.png"/>
+
 
 
 ## Reference <br>

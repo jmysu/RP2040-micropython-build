@@ -20,8 +20,11 @@ Finally, find the picotool in SDK and list the info...  <br>
 <img src="pic/picotool-micropython.png"/>
 <br/>
 
+To use the PyDOS, install rpremote
+
 
 ## Reference <br>
 [RP2 QuickRef] https://docs.micropython.org/en/latest/rp2/quickref.html<br>
 [Pico Examples] https://github.com/raspberrypi/pico-micropython-examples<br>
-[Awesome resources collections] https://github.com/mcauser/awesome-micropython 
+[Awesome resources collections] https://github.com/mcauser/awesome-micropython<br>
+[PyDOS] https://github.com/RetiredWizard/PyDOS

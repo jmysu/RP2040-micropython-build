@@ -8,8 +8,7 @@ Followings are the steps to build the micropython.uf2... <br><br>
   make -C mpy-cross/<br>
   git submodule update --init -- lib/pico-sdk<br>
   git submodule update --init -- lib/tinyusb<br>
-  cd lib/pico-sdk<br>
-  git submodule update --init<br>
+
   cd ../..<br>
   cd ports/rp2<br>
   make -j4<br>

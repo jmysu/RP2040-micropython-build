@@ -21,7 +21,7 @@ Finally, find the picotool in SDK and list the info...  <br>
 <br/>
 
 To use the PyDOS, follows instructions on https://github.com/RetiredWizard/PyDOS <br>
-(use mpremote to copy PyDOS contents into micropython local folder)<br>
+(use MPRemote to copy PyDOS contents into micropython local folder)<br>
 <img src="pic/PyDOS-micropython.png"/>
 
 
